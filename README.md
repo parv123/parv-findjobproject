@@ -1,7 +1,7 @@
 # Find jobs matching your skills
-## About:-
+## About
 A web page that accepts location and job description as input and finds the jobs in that location and field. 
-## Technologies used:-
+## Technologies used
 React.js , Node.js , APIs, HTML, CSS, Javascript
 
 ## Demo URL

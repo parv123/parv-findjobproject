@@ -5,7 +5,7 @@ A web page that accepts location and job description as input and finds the jobs
 React.js , Node.js , APIs, HTML, CSS, Javascript
 
 ## Demo URL
-`https://parv-findjob-project.herokuapp.com`
+https://parv-findjob-project.herokuapp.com
 ## Steps to 
 * 1
 * 2
